@@ -1,4 +1,4 @@
-# Smart-Lock
+# Smart-Lock Using FaceDetection
 The main objective of this project was Home Security and Home Automation. FaceDetection is used, using open cv to actuate home appliances and security feedback.
 
 ### Key Details:-
